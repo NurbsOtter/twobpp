@@ -3,8 +3,9 @@ name = "twobpp"
 version = "0.1.0"
 authors = ["Amy Colford <amy.colford@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+liscense-file = "LISCENSE"
+description = "A gameboy 2bpp encoder"
+repository = "https://github.com/NurbsOtter/twobpp"
 
 [dependencies]
 num = "0.2.0"
